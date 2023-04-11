@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="keycode" />
+    <option name="mostRecentlyUsed" value="operatorname" />
     <option name="nonFavorites">
       <list>
+        <option value="operatorname" />
         <option value="keycode" />
         <option value="wq" />
       </list>
