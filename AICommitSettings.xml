@@ -1,10 +1,10 @@
 <application>
   <component name="AICommitPluginSettings">
-    <option name="askSelectItemTag" value="翻译" />
+    <option name="askSelectItemTag" value="代码生成" />
     <option name="dialogHeight" value="478" />
-    <option name="dialogWidth" value="596" />
-    <option name="dialogX" value="1002" />
+    <option name="dialogWidth" value="590" />
+    <option name="dialogX" value="697" />
     <option name="dialogY" value="187" />
-    <option name="openAIToken" value="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" />
+    <option name="openAIToken" value="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" />
   </component>
 </application>
