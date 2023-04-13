@@ -1,0 +1,10 @@
+<application>
+  <component name="AICommitPluginSettings">
+    <option name="askSelectItemTag" value="翻译" />
+    <option name="dialogHeight" value="478" />
+    <option name="dialogWidth" value="596" />
+    <option name="dialogX" value="1002" />
+    <option name="dialogY" value="187" />
+    <option name="openAIToken" value="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" />
+  </component>
+</application>
