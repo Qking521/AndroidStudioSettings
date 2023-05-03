@@ -5,9 +5,11 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:com.google.android.googlequicksearchbox" />
+    <option name="mostRecentlyUsed" value="message:keycode" />
     <option name="nonFavorites">
       <list>
+        <option value="message:keycode" />
+        <option value="message~:home" />
         <option value="message~:com.google.android.googlequicksearchbox" />
         <option value="message~:com.google.android.googlequicksearchbox|ActivityTaskManager" />
         <option value="message~:com.google.android.googlequicksearchbox|START" />
