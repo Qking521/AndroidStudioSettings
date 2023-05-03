@@ -1,12 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="favorites">
+      <list>
+        <option value="tag:wq name:wq" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="message~:com.google.android.googlequicksearchbox" />
     <option name="nonFavorites">
       <list>
-        <option value="exception" />
-        <option value="operatorname" />
-        <option value="keycode" />
-        <option value="wq" />
+        <option value="message~:com.google.android.googlequicksearchbox" />
+        <option value="message~:com.google.android.googlequicksearchbox|ActivityTaskManager" />
+        <option value="message~:com.google.android.googlequicksearchbox|START" />
+        <option value="package~:com.google.android.googlequicksearchbox|START" />
+        <option value="package~:com.google.android.googlequicksearchbox|start " />
+        <option value="package:" />
       </list>
     </option>
   </component>
