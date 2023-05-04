@@ -5,9 +5,10 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="tag:wq " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:wq " />
         <option value="is:crash " />
       </list>
     </option>
