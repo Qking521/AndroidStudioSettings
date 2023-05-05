@@ -19,8 +19,9 @@
             <value value="c720b51bf432a8f0" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Wingtech T Phone Pro" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
