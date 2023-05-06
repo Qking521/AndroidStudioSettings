@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="dec66a715378168c" />
+            <value value="c720b51bf432a8f0" />
           </Key>
         </key>
-        <name value="Wingtech TMRV5GTB" />
+        <name value="Wingtech T Phone Pro" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="c720b51bf432a8f0" />
+            <value value="dec66a715378168c" />
           </Key>
         </key>
-        <name value="Wingtech T Phone Pro" />
+        <name value="Wingtech TMRV5GTB" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
@@ -42,6 +42,17 @@
           </Key>
         </key>
         <name value="Lenovo TB125FU" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="25b842ffe89ed6ad" />
+          </Key>
+        </key>
+        <name value="Wingtech T Tablet" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
