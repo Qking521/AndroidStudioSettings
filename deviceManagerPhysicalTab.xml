@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="96c33d8c7d5c" />
+          </Key>
+        </key>
+        <name value="WingTech WTATTRW2" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="c720b51bf432a8f0" />
           </Key>
         </key>
@@ -75,17 +86,6 @@
           </Key>
         </key>
         <name value="Wingtech T Phone Pro" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="96c33d8c7d5c" />
-          </Key>
-        </key>
-        <name value="WingTech WTATTRW2" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
