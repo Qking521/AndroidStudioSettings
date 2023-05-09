@@ -5,13 +5,13 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="exception" />
+    <option name="mostRecentlyUsed" value="message~:level" />
     <option name="nonFavorites">
       <list>
-        <option value="exception" />
-        <option value="fatal" />
-        <option value="tag:wq " />
-        <option value="is:crash " />
+        <option value="message~:level" />
+        <option value="message~:displayinfo" />
+        <option value="tag~:networkcontroller " />
+        <option value="message~:level after" />
       </list>
     </option>
   </component>
