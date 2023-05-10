@@ -5,7 +5,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:wyq name:wq" />
+    <option name="mostRecentlyUsed" value="tag:wq " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq" />
@@ -13,6 +13,11 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag:wq " />
+        <option value="message:" />
+        <option value="message:handleupdatestate" />
+        <option value="message:state.strengthId" />
+        <option value="message:strengthId=" />
         <option value="message~:handleupdate" />
         <option value="message~:camera" />
         <option value="message~:exception" />
