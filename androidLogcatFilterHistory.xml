@@ -5,7 +5,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:wq " />
+    <option name="mostRecentlyUsed" value="tag:Tile.WifiTile " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq" />
@@ -13,6 +13,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag:Tile.WifiTile " />
         <option value="tag:wq " />
         <option value="message:" />
         <option value="message:handleupdatestate" />
