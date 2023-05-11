@@ -5,7 +5,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Tile.WifiTile " />
+    <option name="mostRecentlyUsed" value="message~:level" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq" />
@@ -14,18 +14,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:Tile.WifiTile " />
-        <option value="tag:wq " />
-        <option value="message:" />
-        <option value="message:handleupdatestate" />
-        <option value="message:state.strengthId" />
-        <option value="message:strengthId=" />
-        <option value="message~:handleupdate" />
-        <option value="message~:camera" />
-        <option value="message~:exception" />
         <option value="message~:level" />
-        <option value="message~:displayinfo" />
-        <option value="tag~:networkcontroller " />
-        <option value="message~:level after" />
       </list>
     </option>
   </component>
