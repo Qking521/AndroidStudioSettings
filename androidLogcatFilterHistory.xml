@@ -5,7 +5,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:level" />
+    <option name="mostRecentlyUsed" value="tag:networkcontroller.mobilesignalcontroller(1)(0) " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq" />
@@ -13,8 +13,9 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="tag:Tile.WifiTile " />
+        <option value="tag:networkcontroller.mobilesignalcontroller(1)(0) " />
         <option value="message~:level" />
+        <option value="tag:Tile.WifiTile " />
       </list>
     </option>
   </component>
