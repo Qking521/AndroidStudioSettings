@@ -5,7 +5,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:WifiSignalController | tag~:wq* | tag:WifiClientModeManager" />
+    <option name="mostRecentlyUsed" value="tag:wyq name:wq" />
     <option name="named">
       <list>
         <option value="tag:wq name:wq | message~:wq?" />
@@ -15,6 +15,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag:WifiSignalController | tag~:wq | tag:WifiClientModeManager" />
         <option value="tag:WifiSignalController | tag~:wq* | tag:WifiClientModeManager" />
         <option value="tag:WifiSignalController | tag:wq | tag:WifiClientModeManager" />
         <option value="tag:WifiSignalController | tag:wq " />
