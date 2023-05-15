@@ -52,7 +52,7 @@
             <value value="0123456789ABCDEF" />
           </Key>
         </key>
-        <name value="Lenovo TB125FU" />
+        <name value="WingTech WTATTRW2" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
