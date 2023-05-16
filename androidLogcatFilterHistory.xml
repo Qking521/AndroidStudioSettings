@@ -5,7 +5,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:WfcTile | message~:mImsManager | tag:wq" />
+    <option name="mostRecentlyUsed" value="message~:networkIcon" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,8 +14,10 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="tag:WfcTile | message~:mImsManager | tag:wq" />
+        <option value="message~:networkIcon" />
+        <option value="message~:NetworkIcon" />
         <option value="tag:WfcTile | message~:mImsManager" />
+        <option value="tag:WfcTile | message~:mImsManager | tag:wq" />
         <option value="tag:WfcTile" />
         <option value="tag:WfcTile | message~:handle" />
         <option value="tag:WfcTile &amp;&amp; message~:handle" />
