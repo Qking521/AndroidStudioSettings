@@ -5,7 +5,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:Tile.FlashlightTile " />
+    <option name="mostRecentlyUsed" value="tag:WfcTile | message~:mImsManager |  tag:NetworkController.MobileSignalController(2)(0) " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,11 +14,12 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag:WfcTile | message~:mImsManager |  tag:NetworkController.MobileSignalController(2)(0) " />
+        <option value="tag:WfcTile | message~:mImsManager" />
         <option value="tag~:Tile.FlashlightTile " />
         <option value="tag~:Tile " />
         <option value="message~:networkIcon" />
         <option value="message~:NetworkIcon" />
-        <option value="tag:WfcTile | message~:mImsManager" />
         <option value="tag:WfcTile | message~:mImsManager | tag:wq" />
         <option value="tag:WfcTile" />
         <option value="tag:WfcTile | message~:handle" />
