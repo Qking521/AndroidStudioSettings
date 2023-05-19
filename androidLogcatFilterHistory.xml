@@ -6,7 +6,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:flashlight" />
+    <option name="mostRecentlyUsed" value="tag~:screenshot " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:screenshot " />
         <option value="message~:flashlight" />
         <option value="tag:WfcTile | message~:mImsManager" />
         <option value="tag:vibrator | tag:wq " />
