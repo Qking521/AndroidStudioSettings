@@ -6,7 +6,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:screenshot" />
+    <option name="mostRecentlyUsed" value="message~:updatetext" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:updatetext" />
+        <option value="tag~:OperatorNameView  " />
+        <option value="tag~:operatornameview  " />
         <option value="message~:screenshot" />
         <option value="message~:screen" />
         <option value="tag~:screenshot " />
