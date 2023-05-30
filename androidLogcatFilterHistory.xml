@@ -18,6 +18,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:QuickAccessWalletTile " />
         <option value="tag~:OperatorNameView " />
         <option value="message~:updatetext | tag~:OperatorNameView " />
         <option value="message~:updateText | tag~:OperatorNameView " />
