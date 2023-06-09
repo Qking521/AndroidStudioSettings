@@ -2,11 +2,11 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="is:crash name:crash" />
         <option value="tag:wq name:wq" />
+        <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:wq name:wq" />
+    <option name="mostRecentlyUsed" value="tag~:StatusBarWifiView" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,8 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:StatusBarWifiView" />
+        <option value="message~:W" />
         <option value="tag~:StatusBar" />
         <option value="message~:wallet" />
         <option value="exception" />
