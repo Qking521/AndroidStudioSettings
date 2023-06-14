@@ -144,6 +144,17 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ef1c99a736e67dc6" />
+          </Key>
+        </key>
+        <name value="Wingtech TMRV5GTB" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
