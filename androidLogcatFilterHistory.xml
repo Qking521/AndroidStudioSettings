@@ -6,7 +6,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:b/223498680" />
+    <option name="mostRecentlyUsed" value="tag:wq name:wq" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,8 +14,8 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="tag~:OperatorNameView|wq" />
         <option value="tag~:b/223498680" />
+        <option value="tag~:OperatorNameView|wq" />
         <option value="tag~:OperatorName" />
         <option value="tag~:StatusBarWifiView" />
         <option value="message~:W" />
