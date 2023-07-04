@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NavigationBar  " />
+    <option name="mostRecentlyUsed" value="tag~:NavigationBar | overview" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,8 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NavigationBar | overview" />
+        <option value="tag~:NavigationBar | recents" />
         <option value="tag~:NavigationBar  " />
         <option value="tag~:InternetDialog " />
         <option value="tag~:LockIcon " />
