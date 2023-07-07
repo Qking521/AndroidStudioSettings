@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:android.intent.action.MEDIA" />
+    <option name="mostRecentlyUsed" value="tag~:StorageNotification" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,11 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:StorageNotification" />
+        <option value="message~:StorageNotification" />
+        <option value="message~:storage" />
+        <option value="message~:android.intent.action.MEDIA|notificationmanager" />
+        <option value="message~:android.intent.action.MEDIA|notification" />
         <option value="message~:android.intent.action.MEDIA" />
         <option value="tag~:Tile.FlashlightTile | InputReader" />
         <option value="tag~:Tile.FlashlightTile | InputReader | message~:handleClick" />
