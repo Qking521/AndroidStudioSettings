@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:Zen Policy" />
+    <option name="mostRecentlyUsed" value="tag~:QSTileHost " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:QSTileHost " />
         <option value="tag~:Zen Policy" />
         <option value="tag~:InternetDialog" />
       </list>
