@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:notification" />
+    <option name="mostRecentlyUsed" value="tag~:Tile.AirplaneModeTile " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,8 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:Tile.AirplaneModeTile " />
+        <option value="message~:Tile.A" />
         <option value="message~:notification" />
         <option value="is:crash name:crash | message~:" />
         <option value="wwq" />
