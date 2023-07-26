@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:wq name:wq" />
+    <option name="mostRecentlyUsed" value="message~:NotificationShade" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,8 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:NotificationShade" />
+        <option value="message~:Changing focus from Window" />
         <option value="message~:darkMode" />
         <option value="message~:zen_mode_changed" />
         <option value="message~:zen" />
