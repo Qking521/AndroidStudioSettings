@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NavigationModeController" />
+    <option name="mostRecentlyUsed" value="message~:signalDraw" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,14 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:signalDraw" />
+        <option value="message~:iconKey" />
+        <option value="tag~:NetworkController.MobileSignalController(1)(0) | message~:IconKey" />
+        <option value="tag~:NetworkController.MobileSignalController(1)(0) " />
+        <option value="message~:*typeIcon" />
+        <option value="message~:MtktypeIcon" />
+        <option value="tag~:S" />
+        <option value="tag~:SignalController" />
         <option value="tag~:NavigationModeController" />
         <option value="tag~:Na" />
         <option value="tag~:N" />
@@ -26,14 +34,6 @@
         <option value="message~:wq" />
         <option value="message~:NotificationShade" />
         <option value="message~:Changing focus from Window" />
-        <option value="message~:darkMode" />
-        <option value="message~:zen_mode_changed" />
-        <option value="message~:zen" />
-        <option value="tag:wq " />
-        <option value="tag~:Tile.AirplaneModeTile " />
-        <option value="message~:Tile.A" />
-        <option value="message~:notification" />
-        <option value="is:crash name:crash | message~:" />
       </list>
     </option>
   </component>
