@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:signalDraw" />
+    <option name="mostRecentlyUsed" value="tag~:networkcontroller.mobilesignalcontroller(1)(0) " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:networkcontroller.mobilesignalcontroller(1)(0) " />
         <option value="message~:signalDraw" />
         <option value="message~:iconKey" />
         <option value="tag~:NetworkController.MobileSignalController(1)(0) | message~:IconKey" />
@@ -33,7 +34,6 @@
         <option value="tag:signalcontroller " />
         <option value="message~:wq" />
         <option value="message~:NotificationShade" />
-        <option value="message~:Changing focus from Window" />
       </list>
     </option>
   </component>
