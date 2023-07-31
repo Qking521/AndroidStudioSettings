@@ -6,7 +6,7 @@
         <option value="is:crash name:crash" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:SignalController | networkIcon" />
+    <option name="mostRecentlyUsed" value="tag~:NavigationModeController" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:NavigationModeController" />
+        <option value="tag~:Na" />
+        <option value="tag~:N" />
         <option value="tag~:SignalController | networkIcon" />
         <option value="tag~:SignalController | typeIcon" />
         <option value="tag~:SignalController " />
@@ -31,9 +34,6 @@
         <option value="message~:Tile.A" />
         <option value="message~:notification" />
         <option value="is:crash name:crash | message~:" />
-        <option value="wwq" />
-        <option value="wq~:wq" />
-        <option value="tag~:notificationservice " />
       </list>
     </option>
   </component>
