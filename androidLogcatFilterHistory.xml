@@ -6,7 +6,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="is:crash name:crash" />
+    <option name="mostRecentlyUsed" value="message~:Airplane Mode change - current state:" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,9 +14,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:Airplane Mode change - current state:" />
         <option value="tag~:StatusBarMobileView" />
         <option value="tag~:networkcontroller.mobilesignalcontroller(1)(0) " />
-        <option value="message~:signalDraw" />
         <option value="message~:iconKey" />
         <option value="tag~:NetworkController.MobileSignalController(1)(0) | message~:IconKey" />
         <option value="tag~:NetworkController.MobileSignalController(1)(0) " />
