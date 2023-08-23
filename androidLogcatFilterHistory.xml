@@ -6,7 +6,7 @@
         <option value="tag:wq name:wq" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:Screen on took" />
+    <option name="mostRecentlyUsed" value="message~:wm_on" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -14,6 +14,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:wm_on" />
+        <option value="message~:com.dts.freefireth.FFMainActivity" />
+        <option value="package:mine " />
         <option value="message~:Screen on took" />
         <option value="message~:network=" />
         <option value="message~:Airplane Mode change - current state:" />
@@ -31,9 +34,6 @@
         <option value="tag~:N" />
         <option value="tag~:SignalController | networkIcon" />
         <option value="tag~:SignalController | typeIcon" />
-        <option value="tag~:SignalController " />
-        <option value="message~:iconKey " />
-        <option value="message~:iconkey " />
       </list>
     </option>
   </component>
