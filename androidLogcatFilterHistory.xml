@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:wq name:wq" />
+    <option name="mostRecentlyUsed" value="tag~:BroadcastQueue | tag~:wq " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,8 +15,8 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:BroadcastQueue | tag~:wq " />
         <option value="tag~:BroadcastQueue" />
-        <option value="message~:BroadcastQue" />
         <option value="message~:Broa" />
         <option value="message~:wm_on" />
         <option value="message~:com.dts.freefireth.FFMainActivity" />
