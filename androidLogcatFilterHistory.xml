@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:CentralSurfaces" />
+    <option name="mostRecentlyUsed" value="tag:wq name:wq" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,8 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:wifi|tag~:wq" />
+        <option value="message~:wifi" />
         <option value="tag~:CentralSurfaces" />
         <option value="message~:wm_on" />
         <option value="message~:Broa" />
@@ -33,8 +35,6 @@
         <option value="message~:MtktypeIcon" />
         <option value="tag~:S" />
         <option value="tag~:SignalController" />
-        <option value="tag~:NavigationModeController" />
-        <option value="tag~:Na" />
       </list>
     </option>
   </component>
