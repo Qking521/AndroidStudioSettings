@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:onNotification" />
+    <option name="mostRecentlyUsed" value="package:com.android.systemui" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,11 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:com.android.systemui" />
+        <option value="message~:keyguard" />
+        <option value="tag~:keyguardsimpinpukmeview " />
+        <option value="tag~:keyguard*" />
+        <option value="message~:simpin" />
         <option value="message~:onNotification" />
         <option value="message~:Notification" />
         <option value="message~:NotificationService" />
@@ -30,11 +35,6 @@
         <option value="package:mine " />
         <option value="message~:network=" />
         <option value="message~:Airplane Mode change - current state:" />
-        <option value="tag~:StatusBarMobileView" />
-        <option value="tag~:networkcontroller.mobilesignalcontroller(1)(0) " />
-        <option value="message~:iconKey" />
-        <option value="tag~:NetworkController.MobileSignalController(1)(0) | message~:IconKey" />
-        <option value="tag~:NetworkController.MobileSignalController(1)(0) " />
       </list>
     </option>
   </component>
