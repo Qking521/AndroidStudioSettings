@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:wq name:wq" />
+    <option name="mostRecentlyUsed" value="message~:onNotification" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,10 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:onNotification" />
+        <option value="message~:Notification" />
+        <option value="message~:NotificationService" />
+        <option value="tag~:NotificationService" />
         <option value="message~:wifi|tag~:wq" />
         <option value="message~:wifi" />
         <option value="tag~:CentralSurfaces" />
@@ -31,10 +35,6 @@
         <option value="message~:iconKey" />
         <option value="tag~:NetworkController.MobileSignalController(1)(0) | message~:IconKey" />
         <option value="tag~:NetworkController.MobileSignalController(1)(0) " />
-        <option value="message~:*typeIcon" />
-        <option value="message~:MtktypeIcon" />
-        <option value="tag~:S" />
-        <option value="tag~:SignalController" />
       </list>
     </option>
   </component>
