@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="is:crash name:crash" />
+    <option name="mostRecentlyUsed" value="tag~:wq " />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:wq " />
         <option value="package:com.android.systemui" />
         <option value="message~:keyguard" />
         <option value="tag~:keyguardsimpinpukmeview " />
@@ -34,7 +35,6 @@
         <option value="message~:com.dts.freefireth.FFMainActivity" />
         <option value="package:mine " />
         <option value="message~:network=" />
-        <option value="message~:Airplane Mode change - current state:" />
       </list>
     </option>
   </component>
