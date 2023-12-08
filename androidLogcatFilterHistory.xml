@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag~:NotificationPanelView" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,12 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package~:com.android.settings" />
+        <option value="tag~:am_|wm_" />
+        <option value="message~:am_" />
+        <option value="tag~" />
+        <option value="tag~:ActivityTaskManager" />
+        <option value="tag~:SecureElementService" />
         <option value="tag~:NotificationPanelView" />
         <option value="tag~:wq " />
         <option value="package:com.android.systemui" />
@@ -29,12 +35,6 @@
         <option value="message~:wifi|tag~:wq" />
         <option value="message~:wifi" />
         <option value="tag~:CentralSurfaces" />
-        <option value="message~:wm_on" />
-        <option value="message~:Broa" />
-        <option value="tag~:BroadcastQueue | tag~:wq " />
-        <option value="tag~:BroadcastQueue" />
-        <option value="message~:com.dts.freefireth.FFMainActivity" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
