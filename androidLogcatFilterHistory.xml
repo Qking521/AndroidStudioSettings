@@ -2,12 +2,12 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="tag:wq name:wq" />
         <option value="is:crash name:crash" />
+        <option value="tag:wq name:wq" />
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="message~:notification" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:notification" />
         <option value="package~:com.android.settings" />
         <option value="tag~:am_|wm_" />
         <option value="message~:am_" />
@@ -34,7 +35,6 @@
         <option value="tag~:NotificationService" />
         <option value="message~:wifi|tag~:wq" />
         <option value="message~:wifi" />
-        <option value="tag~:CentralSurfaces" />
       </list>
     </option>
   </component>
