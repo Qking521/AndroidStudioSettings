@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:notification" />
+    <option name="mostRecentlyUsed" value="message~:keycode" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:keycode" />
+        <option value="message~:action_" />
+        <option value="message~:action" />
         <option value="message~:notification" />
         <option value="package~:com.android.settings" />
         <option value="tag~:am_|wm_" />
@@ -32,9 +35,6 @@
         <option value="message~:onNotification" />
         <option value="message~:Notification" />
         <option value="message~:NotificationService" />
-        <option value="tag~:NotificationService" />
-        <option value="message~:wifi|tag~:wq" />
-        <option value="message~:wifi" />
       </list>
     </option>
   </component>
