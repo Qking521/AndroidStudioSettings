@@ -173,8 +173,9 @@
             <value value="c0724ae8489c5612" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="Wingtech TMRV06P5G" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
