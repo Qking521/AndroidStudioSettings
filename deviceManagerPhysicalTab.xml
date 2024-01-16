@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="Wingtech T Phone (2023)" />
-        <target value="Android API 34" />
-        <api value="androidversion:34:null:null:true" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -165,6 +165,27 @@
         <name value="Wingtech TMAF035G" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="c0724ae8489c5612" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="c1845dfa551a981a" />
+          </Key>
+        </key>
+        <name value="Wingtech T Phone (2023)" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
