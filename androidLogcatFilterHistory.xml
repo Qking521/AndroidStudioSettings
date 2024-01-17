@@ -7,7 +7,7 @@
         <option value="message~:Screen on took" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="message~:stealing touch" />
+    <option name="mostRecentlyUsed" value="tag~:CentralSurfaces" />
     <option name="named">
       <list>
         <option value="tag:wyq name:wq | tag:wq " />
@@ -15,6 +15,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="tag~:CentralSurfaces" />
         <option value="message~:stealing touch" />
         <option value="message~:NotificationShade" />
         <option value="tag~:statusba" />
@@ -34,7 +35,6 @@
         <option value="message~:keyguard" />
         <option value="tag~:keyguardsimpinpukmeview " />
         <option value="tag~:keyguard*" />
-        <option value="message~:simpin" />
       </list>
     </option>
   </component>
